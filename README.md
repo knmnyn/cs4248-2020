@@ -6,4 +6,7 @@ A Github Pages template for academic websites. This was forked (then detached) b
 
 `draft.html` - a separate template HTML for sending customized templated emails.  Originally crafted at beefree.io.
 
-Notes: 500e80 hex is the color code for the purple background for the webpage.
+
+Notes: 
+D02D23 hex is the color code for the red background for the 2020 webpage.
+500e80 hex is the color code for the purple background for the 2010 webpage.
