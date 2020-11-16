@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CS3244 Machine Learning AY20/21 Sem I"
+title                    : "CS4248 Natural Language Processing AY20/21 Sem 2"
 title_separator          : "-"
-name                     : &name "CS3244 Machine Learning"
-description              : &description "NUS School of Computing's Machine Learning Module"
+name                     : &name "CS4248 Natural Language Processing"
+description              : &description "NUS School of Computing's Natural Language Processing module"
 url                      : https://knmnyn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cs3244-2010" # the subpath of your site, e.g. "/blog"
-repository               : "knmnyn/cs3244-2010.github.io"
+baseurl                  : "/cs4248-2020" # the subpath of your site, e.g. "/blog"
+repository               : "knmnyn/cs4248-2020.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "CS3244 Machine Learning"
+  name             : "CS4248 Natural Language Processing"
   avatar           : "jaywennington.png"
   bio              : "Our undergraduate machine learning course at the National University of Singapore's School of Computing"
   location         : "NUS, Singapore"
   employer         : 
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "https://scholar.google.com/citations?user=aNVcd3EAAAAJ&hl=en"
-  email            : "cs3244@comp.nus.edu.sg"
+  email            : "cs4248@comp.nus.edu.sg"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "knmnyn/cs3244-2010/"
+  github           : "knmnyn/cs4248-2020/"
   google_plus      :
   keybase          :
   instagram        :
