@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Machine Learning"
+title: "Natural Language Processing"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2020/2021, Semester I, Time and Venue: fully online via Zoom and YouTube. Officially from LumiNUS: Mondays, 16:00-18:00 and Thursdays, 11:00-12:00.
+#### NUS SoC, 2020/2021, Semester II, Time and Venue: fully online via Zoom and YouTube. Officially from LumiNUS: Fridays, 09:00-11:00 @ LT19.
 
 <P>&nbsp;
 </P>
@@ -32,27 +32,6 @@ This class is a _flipped_ class, a variant of a blended class. You’ll watch th
 Do ensure that you have the lecture times free in your schedule to be available for scheduled exams.  There will no be alternate exam arrangements.
 
 For most of the Thursdays sessions, we will have a synchrnous help session where Min will field questions from students on questions, concerns and doubts you have on the lecture materials or other components of the course.
-
-### Tutorial Sessions
-
-There will be tutorials for this class starting in Week 03. As the class is flipped, these sessions will be the primary means by which we touch base with you and get to know you personally. Please do attend these sessions via Zoom, as they will not be webcasted (although tutorial solutions will be distributed, you should come to the sessions to get the complete picture, and to be a part of the class).
-
-These tutorial session timings still subject to change. Please see NUSMods for the most up-to-date details. As an enrolled student, you are entitled to one tutorial placement, and need to attend that slot even if not optimal for you. Nicely, all of the tutorials slots come before (Monday-Wednesday), the second class lecture slot on Thursdays.
-
-Tutorial Sessions (tentative; as reported by LumiNUS ca. 17 Jun 2020):
-
-1. T01. Mondays, 13:00-14:00
-2. T02. Wednesdays, 17:00-18:00
-3. T03. Mondays, 15:00-16:00
-4. T04. Mondays, 14:00-15:00
-5. T05. Wednesdays, 11:00-12:00
-6. T06. Mondays, 12:00-13:00
-7. T07. Wednesdays, 16:00-17:00
-8. T08. Wednesdays, 10:00-11:00
-9. T09. Tuesdays, 16:00-17:00
-10. T10. Tuesdays, 17:00-18:00
-11. T11. Tuesdays, 12:00-13:00 (new as of 11 Aug 2020)
-12. T12. Tuesdays, 13:00-14:00 (new as of 11 Aug 2020)
 
 ## Course Characteristics
 
@@ -79,17 +58,6 @@ Questions about prerequisities and waivers are handled centrally by the departme
   </div>
 </div>
 
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/chris-120.jpg"/><BR/>
-  <div>
-    <strong>Christian VON DER WETH</strong><BR/>
-    <A HREF="mailto:chris@comp.nus.edu.sg"><i class="fas fa-envelope"></i> chris@comp.nus.edu.sg</A><BR/>
-    <i class="fas fa-building"></i> TBA<br/><br/>
-    Office hours: TBA  
-  </div>
-</div>    
-
 </div>
 
 ## Teaching Assistants
@@ -100,6 +68,8 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
+<!--
+
 <div class="tutor__profile">
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
   <img src="images/alexfoo.jpg"/><BR/>
@@ -108,53 +78,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <A HREF="mailto:alexfoo@comp.nus.edu.sg">alexfoo@comp.nus.edu.sg</A><BR/>
 </div>
 
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/neamul.jpg"/><BR/>
-  <strong>Mohammed Neamul KABIR</strong>
-  <BR/>
-  <A HREF="mailto:neamul@comp.nus.edu.sg">neamul@comp.nus.edu.sg</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/abhinav.png"/><BR/>
-  <strong>Abhinav Ramesh KASHYAP</strong>
-  <BR/>
-  <A HREF="mailto:abhinav@comp.nus.edu.sg">abhinav@comp.nus.edu.sg</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/HuHengchang.jpg"/><BR/>
-  <strong>HU Hengchang</strong>
-  <BR/>
-  <A HREF="mailto:e0409766@u.nus.edu">e0409766@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/bio-photo.jpg" width="120"><BR/>
-  <strong>Joel LEE</strong>
-  <BR/>
-  <A HREF="mailto:joel_lee@u.nus.edu">joel_lee@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile"> 
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
-  <img src="images/yuxuan.jpg"/><BR/> 
-  <strong>LIANG Yuxuan</strong> 
-  <BR/> 
-  <A HREF="mailto:e0427783@u.nus.edu">e0427783@u.nus.edu</A><BR/> 
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Martin.JPG"/><BR/>
-  <strong>Martin STROBEL</strong>
-  <BR/>
-  <A HREF="mailto:mstrobel@comp.nus.edu.sg">mstrobel@comp.nus.edu.sg</A><BR/>
-</div>
+-->
     
 </div>
 
@@ -162,6 +86,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
+<!--
 <div class="tutor__profile"> 
   <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
   <img src="images/AdamChewYongSoon.jpg"/><BR/> 
@@ -169,102 +94,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <BR/> 
   <A HREF="mailto:yschew@u.nus.edu">yschew@u.nus.edu</A><BR/> 
 </div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Tianyuan.jpg"/><BR/>
-  <strong>FU Tianyuan</strong>
-  <BR/>
-  <A HREF="mailto:futianyuan@u.nus.edu">futianyuan@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Zhenfeng.png"/><BR/>
-  <strong>HE Zhenfeng</strong>
-  <BR/>
-  <A HREF="mailto:he.zhenfeng@u.nus.edu">he.zhenfeng@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile"> 
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
-  <img src="images/Shreyas.jpg"/><BR/> 
-  <strong>Shreyas KUTHANOOR PRAKASH</strong> 
-  <BR/> 
-  <A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/> 
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/bio-photo.jpg" width="120"><BR/>
-  <strong>Marcus LEE</strong>
-  <BR/>
-  <A HREF="mailto:marcus_lee@u.nus.edu">marcus_lee@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile"> 
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
-  <img src="images/LeowWB.jpg"/><BR/> 
-  <strong>LEOW Wen Bin</strong> 
-  <BR/> 
-  <A HREF="mailto:leowwb@u.nus.edu">leowwb@u.nus.edu</A><BR/> 
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/elimwj.jpg"/><BR/>
-  <strong>Eugene LIM</strong>
-  <BR/>
-  <A HREF="mailto:elimwj@comp.nus.edu.sg">elimwj@comp.nus.edu.sg</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Yingnan.jpg"/><BR/>
-  <strong>LIU Yingnan</strong>
-  <BR/>
-  <A HREF="mailto:liu.yingnan@u.nus.edu">liu.yingnan@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/tianzhen.png"/><BR/>
-  <strong>NI Tianzhen</strong>
-  <BR/>
-  <A HREF="mailto:nitianzhen@u.nus.edu">nitianzhen@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Jiayu.jpg"/><BR/>
-  <strong>SHE Jiayu</strong>
-  <BR/>
-  <A HREF="mailto:shejiayu@u.nus.edu">shejiayu@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/sreyans.jpg"/><BR/>
-  <strong>Sreyans SIPANI</strong>
-  <BR/>
-  <A HREF="mailto:ssipani@u.nus.edu">ssipani@u.nus.edu</A><BR/>
-</div>
-
-<div class="tutor__profile"> 
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
-  <img src="images/Tianyang.jpg"/><BR/> 
-  <strong>ZHANG Tianyang</strong> 
-  <BR/> 
-  <A HREF="mailto:e0253753@u.nus.edu">e0253753@u.nus.edu</A><BR/> 
-</div>
-
-<div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
-  <img src="images/Tongyao.jpg"/><BR/>
-  <strong>ZHU Tongyao</strong>
-  <BR/>
-  <A HREF="mailto:tongyao.zhu@u.nus.edu">tongyao.zhu@u.nus.edu</A><BR/>
-</div>
+-->
 
 </div>
 
