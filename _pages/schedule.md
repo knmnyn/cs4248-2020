@@ -62,7 +62,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <td><b>Week 06</b><br />14 Sep
+  <td><b>Week 06</b><br />19 Feb
   </td>
   <td>Word Embeddings
   </td>
@@ -70,7 +70,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <td><b>Week Recess</b><br />21 Sep
+  <td><b>Week Recess</b><br />26 Feb
   </td>
   <td>
   </td>
@@ -78,7 +78,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <td><b>Week 07</b><br />28 Sep
+  <td><b>Week 07</b><br />6 Mar
   </td>
   <td>Convolutional Neural Networks
   </td>
@@ -86,7 +86,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <td><b>Week 08</b><br />5 Oct
+  <td><b>Week 08</b><br />12 Mar
   </td>
   <td>Recurrent Neural Networks
   </td>
@@ -94,7 +94,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <td><b>Week 09</b><br />12 Oct
+  <td><b>Week 09</b><br />19 Mar
   </td>
   <td>Sequence to Sequence and Grammars
   </td>
@@ -102,7 +102,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <td><b>Week 10</b><br />19 Oct
+  <td><b>Week 10</b><br />26 Mar
   </td>
   <td>Syntactic Parsing
   </td>
@@ -110,7 +110,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <td><b>Week 11</b><br />26 Oct
+  <td><b>Week 11</b><br />2 Apr
   </td>
   <td>Statistical and Neural Parsing, and Semantics and First Order Logic
   </td>
@@ -118,7 +118,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <td><b>Week 12</b><br />2 Nov
+  <td><b>Week 12</b><br />9 Apr
   </td>
   <td>Semantic Analysis
   </td>
@@ -126,7 +126,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <td><b>Week 13</b><br />9 Nov
+  <td><b>Week 13</b><br />16 Apr
   </td>
   <td>Discourse
   </td>
@@ -134,7 +134,7 @@ For those who find the pace of the videos too fast or needing a bit more time to
   </td>
 </tr>
 <tr>
-  <th><b>Exam Week</b><br />TBA
+  <th><b>Reading Week</b><br />TBA
   </th>
   <th>No Examinations.  100% Continuous Assessment.
   </th>
