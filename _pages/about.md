@@ -32,10 +32,7 @@ Forthcoming.
 
 **Modular Credits**: 4.
 
-**Prerequisites**: (CS2010 or its equivalent) and (ST1232 or ST2131 or ST2132 or ST2334) and (MA1101R or MA1311 or MA1506) and (MA1102R or MA1505 or MA1521)
-
-Translation:
-Linear algebra, calculus, probability and statistics and introductory computer programming.
+**Prerequisites**: (CS3243 _Introduction to Artificial Intelligence_ or CS3245 _Information Retrieval_) and (ST1232 _Statistics for Life Sciences_, or ST2131 _Probability_, or ST2334 _Probability and Statistics_)
 
 Questions about prerequisities and waivers are handled centrally by the department. Please contact [OOI Wei Tsang)](mailto:ooiwt@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
 
