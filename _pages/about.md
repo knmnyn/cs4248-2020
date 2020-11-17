@@ -18,7 +18,7 @@ redirect_from:
 </P>
 ​    
 
-This module introduces basic concepts and algorithms in machine learning and neural networks. The main reason for studying computational learning is to make better use of powerful computers to learn knowledge (or regularities) from the raw data. The ultimate objective is to build self-learning systems to relieve human from some of already-too-many programming tasks. At the end of the course, students are expected to be familiar with the theories and paradigms of computational learning, and capable of implementing basic learning systems.
+This module deals with computer processing of human languages, emphasizing a corpus-based empirical approach. The topics covered include: 1. Linguistic essentials. 2. Basic techniques and algorithms: Hidden Markov model, Viterbi algorithm, supervised learning algorithms. 3. Words: part-of-speech tagging. 4. Syntax: noun phrase chunking, named entity tagging, parsing (top down, bottom up, probabilistic). 5. Semantics: word sense disambiguation. 6. Pragmatics: discourse, co-reference resolution. 7. Applications: text categorisation, text summarisation, language identification, information extraction, question answering, machine translation.
 
 We will be using the [Coursemology](http://coursemology.org/courses/1870) Learning Management System for the administration of this course (the Coursemology course will be published in due time).
 
@@ -26,12 +26,7 @@ N.B. We will be teaching and using the Python programming language throughout th
 
 ## Class Structure
 
-This class is a _flipped_ class, a variant of a blended class. You’ll watch the first part of the video lecture before coming to tutorial, and then watch a subsequent video recorded lecture post-tutorial, to further reinforce the tutorial.
-
-**Important**: Lecture slots are for e-learning, and for occasional assessments (in Weeks 07 and 13).  
-Do ensure that you have the lecture times free in your schedule to be available for scheduled exams.  There will no be alternate exam arrangements.
-
-For most of the Thursdays sessions, we will have a synchrnous help session where Min will field questions from students on questions, concerns and doubts you have on the lecture materials or other components of the course.
+Forthcoming.
 
 ## Course Characteristics
 
@@ -71,7 +66,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 <!--
 
 <div class="tutor__profile">
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally -->
+  Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally
   <img src="images/alexfoo.jpg"/><BR/>
   <strong>Alex FOO</strong>
   <BR/>
@@ -88,7 +83,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <!--
 <div class="tutor__profile"> 
-  <!-- Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally --> 
+  Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally 
   <img src="images/AdamChewYongSoon.jpg"/><BR/> 
   <strong>Adam CHEW</strong> 
   <BR/> 
@@ -100,11 +95,11 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 ### Workload
 
-(3-1-0-3-3)
+(3-0-0-3-4)
 
 Translation:
 
-3 lecture hours per week (flipped)
-1 hour of tutorials
-3 hours for projects, assignments, fieldwork, etc. per week
-3 hours for preparatory work by a student per week
+3 lecture hours per week.
+0 hour of tutorials
+4 hours for projects, assignments, fieldwork, etc., per week.
+4 hours for preparatory work by a student per week.
