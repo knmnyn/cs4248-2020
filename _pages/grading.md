@@ -7,16 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-The grading for this class will comprise of the following continuous
-assessment milestones, inclusive of two exams. Both exam assessments may feature some MCQ and MRQ.  Multiple Response questions allow for zero, 1, more than 1 or all options to be checked.  MRQs are graded to correct for random chance agreement.
+_This page is preliminary.  Expect it to change._
+
+The grading for this class will comprise of the following continuous assessment milestones, inclusive of one exam. The exam will feature some MCQ and MRQ.  Multiple Response questions allow for zero, 1, more than 1 or all options to be checked.  MRQs are graded to correct for random chance agreement.
 
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
   <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
   <tbody>
-    <tr><td>Final Exam (TBA)</td><td>35%</td></tr>
+    <tr><td>Midterm Test</td><td>30%</td></tr>
     <tr><td>Project (see separate breakdown)</td><td>30%</td></tr>
-    <tr><td>3 Assignments </td><td>30%</td></tr>
-    <tr><td>Participation</td><td>5%</td></tr>
+    <tr><td>3 Assignments </td><td>36%</td></tr>
+    <tr><td>Participation</td><td>4%</td></tr>
     <tr><th><b>Total</b></th><th><b>100%</b></th></tr>
   </tbody>
 </table>
