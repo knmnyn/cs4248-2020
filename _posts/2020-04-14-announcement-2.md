@@ -1,7 +1,7 @@
 ---
 title: 'Website for External Reference Only'
-date: 2020-04-14
-permalink: /posts/2020/04/announcement-1/
+date: 2020-12-29
+permalink: /posts/2020/12/announcement-1/
 tags:
   - instructor
 ---
