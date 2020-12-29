@@ -25,10 +25,6 @@ We will be using the [LumiNUS](https://luminus.nus.edu.sg/modules/eba8b739-2fa1-
 
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
-## Class Structure
-
-Forthcoming.
-
 ## Course Characteristics
 
 **Modular Credits**: 4.
@@ -62,28 +58,52 @@ Questions about prerequisities and waivers are handled centrally by the departme
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <div class="tutor__profile">
-  Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally
+  <img src="images/bio-photo.jpg"/><BR/>
+  <strong>Anab Maulana BARIK</strong>
+  <BR/>
+<!--  <A HREF="mailto:e0546093@u.nus.edu">e0546093@u.nus.edu</A><BR/> -->
+</div>
+
+<div class="tutor__profile">
+  <img src="images/bio-photo.jpg"/><BR/>
+  <strong>LU Xinyuan</strong>
+  <BR/>
+<!--  <A HREF="mailto:e0517237@u.nus.edu">e0517237@u.nus.edu</A><BR/> -->
+</div>
+
+<div class="tutor__profile">
   <img src="images/bio-photo.jpg"/><BR/>
   <strong>PAN Liangming</strong>
   <BR/>
-<!--  <A HREF="mailto:alexfoo@comp.nus.edu.sg">alexfoo@comp.nus.edu.sg</A><BR/> -->
+<!--  <A HREF="mailto:e0272310@u.nus.edu">e0272310@u.nus.edu</A><BR/> -->
 </div>
-    
+
+<div class="tutor__profile">
+  <img src="images/bio-photo.jpg"/><BR/>
+  <strong>MUHAMMAD Reza Qorib</strong>
+  <BR/>
+<!--  <A HREF="mailto:e0514925@u.nus.edu">e0514925@u.nus.edu</A><BR/> 
+</div>
+
 </div>
 
 ### Undergraduate Teaching Assistants
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
-<!--
 <div class="tutor__profile"> 
-  Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally 
-  <img src="images/AdamChewYongSoon.jpg"/><BR/> 
-  <strong>Adam CHEW</strong> 
+  <img src="images/bio-photo.jpg"/><BR/> 
+  <strong>Shreyas KUTHANOOR PRAKASH</strong> 
   <BR/> 
-  <A HREF="mailto:yschew@u.nus.edu">yschew@u.nus.edu</A><BR/> 
+<!--  <A HREF="mailto:e0238588@u.nus.edu">e0238588@u.nus.edu</A><BR/> -->
 </div>
--->
+
+<div class="tutor__profile"> 
+  <img src="images/bio-photo.jpg"/><BR/> 
+  <strong>ZHANG Tianyang/strong> 
+  <BR/> 
+<!--  <A HREF="mailto:e0253753@u.nus.edu">e0253753@u.nus.edu</A><BR/>  -->
+</div>
 
 </div>
 
