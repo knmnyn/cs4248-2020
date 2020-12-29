@@ -8,13 +8,15 @@ author_profile: false
 _Credits: Much of the architecture for this course project comes from
 Bryan Low (NUS) and Thorsten Joachims (Cornell)_
 
+_Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  It may not be updated.
+
 A key part of the mastery of machine learning is practicing it,
 outside of the formal mathematical and statistical basis for the
 algorithms.  The **student projects** form an integral part of the
-assessment.  Student teams should have 5-6 members and will be
+assessment.  Student teams should have 4 members and will be
 assembled by the teaching staff.  There are two kinds of projects that
-can be done: _Self-Defined Projects_ and _Kaggle Competition
-Projects_. **Choose only one of the two**.
+can be done: _Self-Defined Projects_ or _Staff-defined projects_. 
+**Choose only one of the two**.
 
 ### Self-Defined Projects
 
@@ -24,7 +26,7 @@ enable you to study an area of your interest in greater detail in a
 practical way. The project can take on many forms, including but not
 limited to:
 
-* Projects that explore the application of machine learning ideas to an interesting “real-world” problem.
+* Projects that explore the application of natural language processing ideas to an interesting “real-world” problem.
 * Projects that involve a theoretical or empirical study of aspects of a learning method or model.
 * Projects that do an experimental, comparative study of various machine learning methods.
 * Projects that extend or synergise with an existing project (could be from a member of your group), such as a honors year project. 
@@ -58,12 +60,12 @@ and more emphasis on coming up with interesting methods.
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
 <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
 <tbody>
-<tr><td>Proposal</td><td>3%</td></tr>
-<tr><td>Interim Presentation</td><td>6%</td></tr>
-<tr><td>Project Poster, Video and Poster Presentation</td><td>6 + 5 + 6 = 17%</td></tr>
-<tr><td>Final Project Report</td><td>9%</td></tr>
+<tr><td>Proposal</td><td>5%</td></tr>
+<tr><td>Interim Presentation</td><td>10%</td></tr>
+<tr><td>Project Poster and Presentation</td><td>5 + 5 = 10%</td></tr>
+<tr><td>Final Project Report</td><td>10%</td></tr>
 <tr><td>Peer Grading (of three other projects) </td><td>(counts towards <i>Participation</i>)</td></tr>
-<tr><th><b>Total</b></th><th><b>35%</b></th></tr>
+<tr><th><b>Total</b></th><th><b>30%</b></th></tr>
 </tbody>
 </table>
 <p><br /></p>
@@ -73,18 +75,14 @@ a formal project proposal.  The staff and your peers will give you
 feedback.  After the project proposal, you will be assigned a contact
 TA that you can use as a resource for questions and advice.
 
-In Weeks 7-8, the staff will meet with all teams for a first,
-mandatory consultation.  Your team will need to prepare a short
+In Weeks 09-10, the staff will meet with all teams for a
+mandatory graded consultation.  Your team will need to prepare a short
 presentation deck to present to the staff about the progress of your
-project.  Based on your team’s interest and the staff’s opinion on
-your project, you may elect to present at 17th STePS.  Teams that
-present at STePS will have a slightly different path and grading
-rubric for their project which involves additional consultation with
-staff and cumulates with a public presentation at STePS.
+project.
 
 Detailed grading rubrics for all phases of the project are provided as
 part of the project reporting templates provided in class, as well as
-through the accompanying project videos that are released on Week 1.
+through the accompanying project videos that are released on Week 01.
 The general grading metrics are as follows:
 
 * Originality
@@ -94,7 +92,7 @@ The general grading metrics are as follows:
 * Scope/Size (in proportion to size of group)
 * Significance (are the questions you are asking interesting)
 
-As with supervised machine learning, sometimes it’s easier to learn from
+<!-- As with supervised machine learning, sometimes it’s easier to learn from
 data than from rubrics.  You can get a look at past projects by
 looking the previous iterations of
 CS3244 projects as housed in SoC's STePS platform, from either
@@ -102,3 +100,4 @@ CS3244 projects as housed in SoC's STePS platform, from either
 [Semester I, AY 18/19](https://isteps.comp.nus.edu.sg/event/13th-steps/module/CS3244).
 
 We also would like to thank [AWS Educate](https://aws.amazon.com/education/awseducate/students/) for their continued sponsorship of our course by allowing our course administrators to distribute 10,000 USD worth of AWS credits to project teams that declare that they will be using AWS platform for their course project work.
+-->
