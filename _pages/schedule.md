@@ -8,7 +8,7 @@ author_profile: false
 Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom (there may be a remote attendance option; we'll see how it goes), and uploaded to LumiNUS.
 
 <table class="table table-striped">
-<thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th><th>Readings and Deadlines</th></tr></thead>
+<thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th>Optional Readings and Deadlines</th></tr></thead>
 <tbody>
 <tr>
   <td><b>NUS Week 01</b><br />Fri, 15 Jan
