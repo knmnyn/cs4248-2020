@@ -8,27 +8,20 @@ author_profile: true
 {% include base_path %}
 
 The grading for this class will comprise of the following continuous
-assessment milestones, inclusive of two exams. Both exam assessments will largely be MCQ/MRQ based.
+assessment milestones, inclusive of two exams. Both exam assessments may feature some MCQ and MRQ.  Multiple Response questions allow for zero, 1, more than 1 or all options to be checked.  MRQs are graded to correct for random chance agreement.
 
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
   <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
   <tbody>
-    <tr><td>Exam 1 (Thu, 1 Oct 2020)</td><td>25%</td></tr>
-    <tr><td>Exam 2 (Thu, 12 Nov 2020)</td><td>25%</td></tr>
-    <tr><td>Machine Learning Project</td><td>35%</td></tr>
-    <tr><td>Weekly Python Notebook Assessments</td><td>10%</td></tr>
+    <tr><td>Final Exam (TBA)</td><td>35%</td></tr>
+    <tr><td>Project (see separate breakdown)</td><td>30%</td></tr>
+    <tr><td>3 Assignments </td><td>30%</td></tr>
     <tr><td>Participation</td><td>5%</td></tr>
     <tr><th><b>Total</b></th><th><b>100%</b></th></tr>
   </tbody>
 </table>
 
-This module is a flipped module, meaning that the lectures are online and
-done at your own pace through watching the appropriate pre-recorded videos.  Staff
-contact will be mostly conducted through Tutorials and Project
-Consultations (to be arranged individually per project group).
-
-Lecture and tutorial attendance is not mandatory, but will help with
-your participation grade. Participation is very helpful for your
+Lecture attendance is not mandatory. However, participation on the Slack discussion group is very helpful for your
 teaching staff too. Without it, we have very little idea whether you
 understand the material that we’ve presented or whether it’s too
 difficult or trivial. Giving feedback in the form of questions,
@@ -95,14 +88,12 @@ to Prof. Dymond at York University’s use of it in 1984.
 
 ## Late Submissions
 
-All homework assignments are due to Coursemology by 23:59:59
+All homework assignments are due to LumiNUS by 23:59:59
 (Singapore time; SGT) on the due date. No exceptions without a medical
 certificate will be made. The following penalties will apply for late
 submissions:
 
-* late within 1 hour: 10% reduction in grade;
-* late within 5 hours: 30% reduction in grade;
-* late within 1 day: 50% reduction in grade;
+* late within 1 day: 30% reduction in grade;
 * late within 5 days: 70% reduction in grade;
 * after 5 days: zero mark.
 
