@@ -100,7 +100,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div class="tutor__profile"> 
   <img src="images/bio-photo.jpg"/><BR/> 
-  <strong>ZHANG Tianyang/strong> 
+  <strong>ZHANG Tianyang</strong> 
   <BR/> 
 <!--  <A HREF="mailto:e0253753@u.nus.edu">e0253753@u.nus.edu</A><BR/>  -->
 </div>
