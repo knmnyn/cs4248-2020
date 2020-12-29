@@ -1,7 +1,7 @@
 ---
 title: 'Porting over website for initial modifications'
 date: 2020-12-29
-permalink: /posts/2020/01/announcement-1/
+permalink: /posts/2020/12/announcement-1/
 tags:
   - instructor
 ---
