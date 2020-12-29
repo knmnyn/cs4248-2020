@@ -8,8 +8,8 @@ author_profile: false
 Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom (there may be a remote attendance option; we'll see how it goes), and uploaded to LumiNUS.
 
 Note in the Readings column:
-* (SLP3) Jurafsky and Martin, Speech and Language Processing, 3rd edition
-* (E) Jacob Eisenstein, Natural Language Processing (2018)
+* (SLP3) Jurafsky and Martin, <A href="https://web.stanford.edu/~jurafsky/slp3/">Speech and Language Processing</a>, 3rd edition
+* (E) Jacob Eisenstein, <a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf">Natural Language Processing</a> (2018)
 
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th>Optional Readings and Deadlines</th></tr></thead>
@@ -37,7 +37,7 @@ Note in the Readings column:
     Language Models
   </td>
   <td>· Assignment 1 out
-    <BR/>· [SLP3, Chapter 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
+    <BR/>· SLP3, Ch 3.
   </td>
 </tr>
 <tr>
@@ -46,6 +46,7 @@ Note in the Readings column:
   <td>Text Classification
   </td> 
   <td>· Assignment 1 due
+    <BR/>· E, Chs 2–4.    
   </td>
 </tr>
 <tr>
@@ -61,7 +62,8 @@ Note in the Readings column:
   </td>
   <td>Embeddings
   </td>
-  <td>
+  <td>· SLP3, Ch 6.
+    <BR/>· E, Ch 14.
   </td>
 </tr>
 <tr>
