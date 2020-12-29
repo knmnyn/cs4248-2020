@@ -15,7 +15,7 @@ outside of the formal mathematical and statistical basis for the
 algorithms.  The **student projects** form an integral part of the
 assessment.  Student teams should have 4 members and will be
 assembled by the teaching staff.  There are two kinds of projects that
-can be done: _Self-Defined Projects_ or _Staff-defined projects_. 
+can be done: _Self-Defined Projects_ or _Staff-Defined Projects_. 
 **Choose only one of the two**.
 
 ### Self-Defined Projects
@@ -40,13 +40,9 @@ explicitly declaring what is being extended or novel for the scope
 proposed for the class.  The teaching staff will take these factors
 into account when grading.
 
-### Kaggle Competition Projects
+### Staff-Defined Projects
 
-On the [Kaggle](http://kaggle.com) website, you can find and choose
-from a number of interesting machine learning competitions. Upon
-joining a competition, you will be provided with a training and
-testing sets, and your performance will be measured with specified
-metrics and ranked with other competitors on the web.
+The staff may also propose projects suitable for students to try.  These are projects that have a dataset that provide a dataset and a clear-cut problem (classification, ranking) that you can attempt.  These will be available closer to the start of the project timing.
 
 Note that performance on the different metrics is not the critical
 factor in your grade on the project. While doing well on the
