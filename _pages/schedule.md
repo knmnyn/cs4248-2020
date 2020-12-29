@@ -45,16 +45,15 @@ Note in the Readings column:
   </td>
   <td>Text Classification
   </td> 
-  <td>· Assignment 1 due
-    <BR/>· E, Chs 2–4.    
+  <td>· E, Chs 2–4.    
   </td>
 </tr>
 <tr>
   <td><b>Week 05</b><br />12 Feb
   </td>
-  <td>Connectionist Machine Learning and Exam
+  <td>Connectionist Machine Learning
   </td>
-  <td>
+  <td>· Assignment 1 due
   </td>
 </tr>
 <tr>
@@ -80,8 +79,8 @@ Note in the Readings column:
   <td>Sequences
   </td>
   <td>· Assignment 2 out
-    </br>· SLP3, Ch 8.
-    </br>· E, Ch 7.
+    <br/>· SLP3, Ch 8.
+    <br/>· E, Ch 7.
   </td>
 </tr>
 <tr>
@@ -89,7 +88,7 @@ Note in the Readings column:
   </td>
   <td>Encoder–Decoder
   </td>
-  <td>· Assignment 2 due
+  <td>
   </td>
 </tr>
 <tr>
@@ -97,7 +96,8 @@ Note in the Readings column:
   </td>
   <td>Trees
   </td>
-    <td>· SLP3, Ch 12, 13, 15.
+    <td>· Assignment 2 due
+      <br/>· SLP3, Ch 12, 13, 15.
     <br/>· E, Chs 9, 10.
   </td>
 </tr>
@@ -114,7 +114,7 @@ Note in the Readings column:
   </td>
   <td>Classification Applications
   </td>
-  <td>· Assignment 3 due
+  <td>
     <br/>· SLP3, Ch 25
   </td>
 </tr>
@@ -123,7 +123,8 @@ Note in the Readings column:
   </td>
   <td>Sequence Applications
   </td>
-  <td>· SLP3, Ch 25
+  <td>· Assignment 3 due
+    <br/>· SLP3, Ch 25
     <br/>· E, Ch 18
   </td>
 </tr>
