@@ -82,7 +82,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
   <img src="images/bio-photo.jpg"/><BR/>
   <strong>MUHAMMAD Reza Qorib</strong>
   <BR/>
-<!--  <A HREF="mailto:e0514925@u.nus.edu">e0514925@u.nus.edu</A><BR/> 
+<!--  <A HREF="mailto:e0514925@u.nus.edu">e0514925@u.nus.edu</A><BR/>  -->
 </div>
 
 </div>
