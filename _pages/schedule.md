@@ -78,8 +78,8 @@ Note in the Readings column:
   <td><b>Week 07</b><br />6 Mar
   </td>
   <td>Sequences
-  </td>· Assignment 2 out
-  <td>
+  </td>
+  <td>· Assignment 2 out
   </td>
 </tr>
 <tr>
