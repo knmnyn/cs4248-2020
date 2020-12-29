@@ -65,14 +65,14 @@ Questions about prerequisities and waivers are handled centrally by the departme
 </div>
 
 <div class="tutor__profile">
-  <img src="images/bio-photo.jpg"/><BR/>
+  <img src="images/xinyuan.jpg"/><BR/>
   <strong>LU Xinyuan</strong>
   <BR/>
 <!--  <A HREF="mailto:e0517237@u.nus.edu">e0517237@u.nus.edu</A><BR/> -->
 </div>
 
 <div class="tutor__profile">
-  <img src="images/bio-photo.jpg"/><BR/>
+  <img src="images/liangming.jpg"/><BR/>
   <strong>PAN Liangming</strong>
   <BR/>
 <!--  <A HREF="mailto:e0272310@u.nus.edu">e0272310@u.nus.edu</A><BR/> -->
@@ -99,7 +99,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 </div>
 
 <div class="tutor__profile"> 
-  <img src="images/bio-photo.jpg"/><BR/> 
+  <img src="images/Tianyang.jpg"/><BR/> 
   <strong>ZHANG Tianyang</strong> 
   <BR/> 
 <!--  <A HREF="mailto:e0253753@u.nus.edu">e0253753@u.nus.edu</A><BR/>  -->
