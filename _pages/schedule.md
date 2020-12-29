@@ -52,7 +52,7 @@ Note in the Readings column:
 <tr>
   <td><b>Week 05</b><br />12 Feb
   </td>
-  <td>Connectionist Machine Learning 
+  <td>Connectionist Machine Learning and Exam
   </td>
   <td>
   </td>
@@ -98,7 +98,7 @@ Note in the Readings column:
   <td>Trees
   </td>
     <td>· SLP3, Ch 12, 13, 15.
-    </br>· E, Chs 9, 10.
+    <br/>· E, Chs 9, 10.
   </td>
 </tr>
 <tr>
@@ -139,15 +139,11 @@ Note in the Readings column:
 <tr>
   <th><b>Reading Week</b><br />TBA
   </th>
-  <th>Examination TBA
+  <th>100% Continuous Assessment (due to COVID-19).  No final exam<sup>1</sup>.
   </th>
   <th>
   </th>
 </tr>
 </tbody></table>
 
-<p><br /></p>
-
-<!--
-
--->
+<p><sup>1</sup>Exam considerations were decided at the beginning of April 2020 for the entire academic year.  At that time, we thought it was safer not to require a physical final exam venue.  Fortunately, we can have class in place, but the exam considerations needed to be moved to online continuous assessment only at that time.  We regret any inconvenience.
