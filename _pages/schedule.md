@@ -18,8 +18,6 @@ Note in the Readings column:
   <td><b>NUS Week 01</b><br />Fri, 15 Jan
   </td>
   <td>Administrivia and Regular Expressions, Finite State Automata</td>
-<!--  <td>· 
--->
   <td>
   </td>
 </tr>
@@ -38,7 +36,8 @@ Note in the Readings column:
   <td>
     Language Models
   </td>
-  <td>
+  <td>· Assignment 1 out
+    <BR/>· [SLP3, Chapter 3](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
   </td>
 </tr>
 <tr>
@@ -46,7 +45,7 @@ Note in the Readings column:
   </td>
   <td>Text Classification
   </td> 
-  <td>
+  <td>· Assignment 1 due
   </td>
 </tr>
 <tr>
@@ -77,7 +76,7 @@ Note in the Readings column:
   <td><b>Week 07</b><br />6 Mar
   </td>
   <td>Sequences
-  </td>
+  </td>· Assignment 2 out
   <td>
   </td>
 </tr>
@@ -86,7 +85,7 @@ Note in the Readings column:
   </td>
   <td>Encoder–Decoder
   </td>
-  <td>
+  <td>· Assignment 2 due
   </td>
 </tr>
 <tr>
@@ -102,7 +101,7 @@ Note in the Readings column:
   </td>
   <td>Semantics
   </td>
-  <td>
+  <td>· Assignment 3 out
   </td>
 </tr>
 <tr>
@@ -110,7 +109,7 @@ Note in the Readings column:
   </td>
   <td>Classification Applications
   </td>
-  <td>
+  <td>· Assignment 3 due
   </td>
 </tr>
 <tr>
