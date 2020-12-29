@@ -21,7 +21,7 @@ redirect_from:
 
 This module deals with computer processing of human languages, emphasizing a corpus-based empirical approach. The topics covered include: 1. Linguistic essentials. 2. Basic techniques and algorithms: Hidden Markov model, Viterbi algorithm, supervised learning algorithms. 3. Words: part-of-speech tagging. 4. Syntax: noun phrase chunking, named entity tagging, parsing (top down, bottom up, probabilistic). 5. Semantics: word sense disambiguation. 6. Pragmatics: discourse, co-reference resolution. 7. Applications: text categorisation, text summarisation, language identification, information extraction, question answering, machine translation.
 
-We will be using the [Coursemology](http://coursemology.org/courses/1870) Learning Management System for the administration of this course (the Coursemology course will be published in due time).
+We will be using the [LumiNUS](https://luminus.nus.edu.sg/modules/eba8b739-2fa1-4148-8384-d1fe7a1034fb) 🔒 Learning Management System for the administration of this course.
 
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
@@ -61,17 +61,13 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
-<!--
-
 <div class="tutor__profile">
   Ensure image is of appropriate square size 120px x 120px, and less than 10KB ideally
-  <img src="images/alexfoo.jpg"/><BR/>
-  <strong>Alex FOO</strong>
+  <img src="images/bio-photo.jpg"/><BR/>
+  <strong>PAN Liangming</strong>
   <BR/>
-  <A HREF="mailto:alexfoo@comp.nus.edu.sg">alexfoo@comp.nus.edu.sg</A><BR/>
+<!--  <A HREF="mailto:alexfoo@comp.nus.edu.sg">alexfoo@comp.nus.edu.sg</A><BR/> -->
 </div>
-
--->
     
 </div>
 
