@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-#### NUS SoC, 2020/2021, Semester II, Time and Venue: fully online via Zoom and YouTube. Officially from LumiNUS: Fridays, 09:00-11:00 @ LT19.
+#### NUS SoC, 2020/2021, Semester II, Time and Venue: Fridays, 09:00-11:00 @ LT19.  Session will be recorded where our technology behaves appropriately and shared on LumiNUS. 
 
 <!-- 
 <P>&nbsp;
