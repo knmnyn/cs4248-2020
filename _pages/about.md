@@ -92,7 +92,7 @@ Questions about prerequisities and waivers are handled centrally by the departme
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <div class="tutor__profile"> 
-  <img src="images/bio-photo.jpg"/><BR/> 
+  <img src="images/Shreyas.jpg"/><BR/> 
   <strong>Shreyas KUTHANOOR PRAKASH</strong> 
   <BR/> 
 <!--  <A HREF="mailto:e0238588@u.nus.edu">e0238588@u.nus.edu</A><BR/> -->
