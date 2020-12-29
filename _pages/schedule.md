@@ -7,6 +7,10 @@ author_profile: false
 
 Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom (there may be a remote attendance option; we'll see how it goes), and uploaded to LumiNUS.
 
+Note in the Readings column:
+* (SLP3) Jurafsky and Martin, Speech and Language Processing, 3rd edition
+* (E) Jacob Eisenstein, Natural Language Processing (2018)
+
 <table class="table table-striped">
 <thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th>Optional Readings and Deadlines</th></tr></thead>
 <tbody>
