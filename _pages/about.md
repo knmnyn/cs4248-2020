@@ -113,10 +113,10 @@ Questions about prerequisities and waivers are handled centrally by the departme
 
 Translation:
 
-3 lecture hours per week.
-0 hour of tutorials
-4 hours for projects, assignments, fieldwork, etc., per week.
-4 hours for preparatory work by a student per week.
+* 3 lecture hours per week.
+* 0 hour of tutorials.
+* 4 hours for projects, assignments, fieldwork, etc., per week.
+* 4 hours for preparatory work by a student per week.
 
 ### Frequently Asked Questions
 
