@@ -117,3 +117,23 @@ Translation:
 0 hour of tutorials
 4 hours for projects, assignments, fieldwork, etc., per week.
 4 hours for preparatory work by a student per week.
+
+### Frequently Asked Questions
+
+1. Will the module be webcasted (recorded or broadcasted live)?
+
+Yes, barring technical difficulties, we plan to record the course lectures and make them available on LumiNUS.  That is, we will make our best effort to do this, but do not guarantee quality of service for webcasted or remote learning.  We will attempt to make the lectures available on simulcast on Zoom, links to be available to course students only (you will need to be authenticated to your NUS-linked Zoom account to connect to the lectures).
+
+Recorded lectures will be put into the `Web Lectures` folder on the LumiNUS platform.
+
+2. I'm taking ATAP this semester.  I need an exception to get admitted to this class.  Can you grant me this exception?
+
+Sorry, no.  This is a unilateral policy.  CS4248 is in high demand and generally oversubscribed.  We reserve and exercise the right to make this course only available to full-time NUS students (locally matriculated and exchange students).  We welcome you to take the course when you return to NUS full-time.
+
+3. I do not fulfill the exact prerequisite requirements for this module.  Can you grant me this exception?
+
+Module coordinators do not approve prerequisite waivers in our School.  You need to approach our School's curriculum coordinator for permission.  Generally, the answer is no, except in extenuating circumstances.  E-mail `cs-curriculum@comp.nus.edu.sg` and apply for the waiver on ModRec. 
+
+4. I need this course in order to graduate this coming semester.  Can you grant me this exception?
+
+Please ask your academic advisor to explain the situation to me.  We will see what we can do and perhaps help your academic advisor help plan future students' plans accordingly.
