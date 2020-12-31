@@ -31,7 +31,18 @@ N.B. We will be teaching and using the Python programming language throughout th
 
 **Prerequisites**: (CS3243 _Introduction to Artificial Intelligence_ or CS3245 _Information Retrieval_) and (EE2012(A) _Analytical Methods in Electrical and Computer Engineering_, MA2216 _Probability_, ST1232 _Statistics for Life Sciences_, or ST2131 _Probability_, or ST2334 _Probability and Statistics_)
 
-Questions about prerequisities and waivers are handled centrally by the department. For this semester (Semester 2020), Please contact [OOI Wei Tsang)](mailto:ooiwt@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
+Questions about prerequisities and waivers are handled centrally by the department. For this semester (Semester 2020), Please contact [cs-curriculum@comp.nus.edu.sg](mailto:cs-curriculum@comp.nus.edu.sg) to describe your case and seek any waivers regarding prerequisities.
+
+### Workload
+
+(3-0-0-3-4)
+
+Translation:
+
+* 3 lecture hours per week.
+* 0 hour of tutorials.
+* 4 hours for projects, assignments, fieldwork, etc., per week.
+* 4 hours for preparatory work by a student per week.
 
 ## Instructors
 
@@ -106,17 +117,6 @@ Questions about prerequisities and waivers are handled centrally by the departme
 </div>
 
 </div>
-
-## Workload
-
-(3-0-0-3-4)
-
-Translation:
-
-* 3 lecture hours per week.
-* 0 hour of tutorials.
-* 4 hours for projects, assignments, fieldwork, etc., per week.
-* 4 hours for preparatory work by a student per week.
 
 ## Frequently Asked Questions
 
