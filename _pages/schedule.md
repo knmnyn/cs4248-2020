@@ -8,6 +8,7 @@ author_profile: false
 Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom (there may be a remote attendance option; we'll see how it goes), and uploaded to LumiNUS.
 
 Note in the Readings column:
+* (SLP2) Jurafsky and Martin, <A href="https://web.stanford.edu/~jurafsky/slp2/">Speech and Language Processing</a>, 2nd edition
 * (SLP3) Jurafsky and Martin, <A href="https://web.stanford.edu/~jurafsky/slp3/">Speech and Language Processing</a>, 3rd edition
 * (E) Jacob Eisenstein, <a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf">Natural Language Processing</a> (2018)
 
@@ -18,7 +19,7 @@ Note in the Readings column:
   <td><b>NUS Week 01</b><br />Fri, 15 Jan
   </td>
   <td>Administrivia and Regular Expressions, Finite State Automata</td>
-  <td>
+  <td>· SLP2, Ch 1.
   </td>
 </tr>
 <tr>
@@ -27,7 +28,7 @@ Note in the Readings column:
   <td>
     Words
   </td>
-  <td>
+  <td>· SLP3, Ch 2.
   </td>
 </tr>
 <tr>
@@ -45,22 +46,24 @@ Note in the Readings column:
   </td>
   <td>Text Classification
   </td> 
-  <td>· E, Chs 2–4.    
+  <td>· SLP3, Ch 4.
+    <BR/>· E, Chs 2–4.    
   </td>
 </tr>
 <tr>
-  <td><b>Week 05</b><br />12 Feb
+  <td><b>Week 05</b><br />12 Feb (Class to be rescheduled in light of CNY Holiday)
   </td>
   <td>Connectionist Machine Learning
   </td>
-  <td>· Assignment 1 due
+  <td>· SLP3, Ch 5.
+· Assignment 1 due
   </td>
 </tr>
 <tr>
   <td><b>Week 06</b><br />19 Feb
   </td>
   <td>Embeddings
-  </td>
+  </td> 
   <td>· SLP3, Ch 6.
     <BR/>· E, Ch 14.
   </td>
