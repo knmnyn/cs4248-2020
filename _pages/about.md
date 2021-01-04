@@ -125,14 +125,26 @@ Translation:
 
    Recorded lectures will be put into the `Web Lectures` folder on the LumiNUS platform.
 
-2. I'm taking ATAP this semester.  I need an exception to get admitted to this class.  Can you grant me this exception?
+2. I'd like to take this module but couldn't secure it during ModReg because the quota is full.  Will it be possible to make an exception?
+
+   See below answers to similar questions.  Generally the answer is no, but we welcome students to audit the class, or take the class in subsequent semesters (CS4248 is offered in both Sem 1 and 2 now).  We know the demand is high (we heard 160 students for 100 slots), but we need to keep the student cap at a reasonable number this semester.  
+
+   If you'd like to audit, please send a mail to cs4248@comp.nus.edu.sg or a DM to @Min with your name and NUS LumiNUS-registered email address.
+
+3. The course is stated as having a physical class at Lecture Theatre 19.  Is that correct?
+
+   Yes.  Lecture will be on Fridays physically at LT19.  LT19 has a physical safe distancing limit of 50 students, so the first 50 students are welcomed at the LT and we will implement the NUS Classroom Attendance System to ensure that those who wish to attend can.  If coming to the class, please make it to the venue by 8:55 so that class can start on-time.
+
+   A fixed Zoom session e-learning option will be given out students to attend class if not attending physically (see first QA item)
+
+4. I'm taking ATAP this semester.  I need an exception to get admitted to this class.  Can you grant me this exception?
 
    Sorry, no.  This is a unilateral policy.  CS4248 is in high demand and generally oversubscribed.  We reserve and exercise the right to make this course only available to full-time NUS students (locally matriculated and exchange students).  We welcome you to take the course when you return to NUS full-time.
 
-3. I do not fulfill the exact prerequisite requirements for this module.  Can you grant me this exception?
+5. I do not fulfill the exact prerequisite requirements for this module.  Can you grant me this exception?
 
    Module coordinators do not approve prerequisite waivers in our School.  You need to approach our School's curriculum coordinator for permission.  Generally, the answer is no, except in extenuating circumstances.  E-mail `cs-curriculum@comp.nus.edu.sg` and apply for the waiver on ModRec. 
 
-4. I need this course in order to graduate this coming semester.  Can you grant me this exception?
+6. I need this course in order to graduate this coming semester.  Can you grant me this exception?
 
    Please ask your academic advisor to explain the situation to me.  We will see what we can do and perhaps help your academic advisor help plan future students' plans accordingly.
