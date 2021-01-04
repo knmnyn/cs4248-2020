@@ -54,7 +54,7 @@ Translation:
     <strong>Min-Yen KAN</strong><br/>
     <a href="mailto:kanmy@comp.nus.edu.sg" style="text-decoration:none"><i class="fas fa-envelope"></i> kanmy@comp.nus.edu.sg</a><br/>
     <i class="fas fa-building"></i> AS6 05-12<br/>
-    <i class="fas fa-slack"></i> @Min<br/>
+    <i class="fas fa-var-slack"></i> @Min<br/>
     Office hours are held after class, but more commonly by appointment. Emails and @Direct Mentions in Slack to me as a default are assumed to be public, and my replies and your anonymized email will likely be posted to Coursemology. Please let me know if you do not want the contents of your communication posted; I will be happy to honor your requests.
   </div>
 </div>
