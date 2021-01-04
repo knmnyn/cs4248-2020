@@ -70,31 +70,31 @@ Translation:
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <div class="tutor__profile">
-  <img src="images/bio-photo.jpg"/><BR/>
+  <img src="images/anab.jpg"/><BR/>
   <strong>Anab Maulana BARIK</strong>
   <BR/>
-<!--  <A HREF="mailto:e0546093@u.nus.edu">e0546093@u.nus.edu</A><BR/> -->
+ <A HREF="mailto:anabmaulana@u.nus.edu">anabmaulana@u.nus.edu</A><BR/>
 </div>
 
 <div class="tutor__profile">
   <img src="images/xinyuan.jpg"/><BR/>
   <strong>LU Xinyuan</strong>
   <BR/>
-<!--  <A HREF="mailto:e0517237@u.nus.edu">e0517237@u.nus.edu</A><BR/> -->
+<A HREF="mailto:luxinyuan@u.nus.edu">luxinyuan@u.nus.edu</A><BR/> 
 </div>
 
 <div class="tutor__profile">
   <img src="images/liangming.jpg"/><BR/>
   <strong>PAN Liangming</strong>
   <BR/>
-<!--  <A HREF="mailto:e0272310@u.nus.edu">e0272310@u.nus.edu</A><BR/> -->
+<A HREF="mailto:e0272310@u.nus.edu">e0272310@u.nus.edu</A><BR/>
 </div>
 
 <div class="tutor__profile">
-  <img src="images/bio-photo.jpg"/><BR/>
+  <img src="images/Reza.jpg"/><BR/>
   <strong>MUHAMMAD Reza Qorib</strong>
   <BR/>
-<!--  <A HREF="mailto:e0514925@u.nus.edu">e0514925@u.nus.edu</A><BR/>  -->
+<A HREF="mailto:mrqorib@u.nus.edu">mrqorib@u.nus.edu</A><BR/>
 </div>
 
 </div>
@@ -104,17 +104,26 @@ Translation:
 <div style="text-align:center; display:grid; grid-template-columns: 1fr 1fr 1fr; margin-top:30px;">
 
 <div class="tutor__profile"> 
+  <img src="images/rahul.jpg"/><BR/> 
+  <strong>Rahul BAID</strong> 
+  <BR/> 
+<A HREF="mailto:rahul.baid@u.nus.edu">rahul.baid@u.nus.edu</A><BR/> 
+</div>
+
+<div class="tutor__profile"> 
   <img src="images/Shreyas.jpg"/><BR/> 
   <strong>Shreyas KUTHANOOR PRAKASH</strong> 
   <BR/> 
-<!--  <A HREF="mailto:e0238588@u.nus.edu">e0238588@u.nus.edu</A><BR/> -->
+<A HREF="mailto:shreyas@u.nus.edu">shreyas@u.nus.edu</A><BR/> 
 </div>
+
+
 
 <div class="tutor__profile"> 
   <img src="images/Tianyang.jpg"/><BR/> 
   <strong>ZHANG Tianyang</strong> 
   <BR/> 
-<!--  <A HREF="mailto:e0253753@u.nus.edu">e0253753@u.nus.edu</A><BR/>  -->
+<A HREF="mailto:zhang.tianyang@u.nus.edu">zhang.tianyang@u.nus.edu</A><BR/>
 </div>
 
 </div>
