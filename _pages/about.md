@@ -21,7 +21,7 @@ redirect_from:
 
 This module deals with computer processing of human languages, emphasizing a corpus-based empirical approach. The topics covered include: 1. Linguistic essentials. 2. Basic techniques and algorithms: Hidden Markov model, Viterbi algorithm, supervised learning algorithms. 3. Words: part-of-speech tagging. 4. Syntax: noun phrase chunking, named entity tagging, parsing (top down, bottom up, probabilistic). 5. Semantics: word sense disambiguation. 6. Pragmatics: discourse, co-reference resolution. 7. Applications: text categorisation, text summarisation, language identification, information extraction, question answering, machine translation.
 
-We will be using the [LumiNUS](https://luminus.nus.edu.sg/modules/eba8b739-2fa1-4148-8384-d1fe7a1034fb) 🔒 Learning Management System for the administration of this course.
+We will be using the [LumiNUS](https://luminus.nus.edu.sg/modules/eba8b739-2fa1-4148-8384-d1fe7a1034fb) 🔒 Learning Management System for the administration of this course.  We will also be using a Slack group for both announcements and class discussion.  Please join it using your LumiNUS registered email address: [cs4248-2020.slack.com](https://cs4248-2020.slack.com/).
 
 N.B. We will be teaching and using the Python programming language throughout this class and Jupyter Notebook via Google Colab. We will using Python 3.x, and largely the SciKitLearn and PyTorch libraries.
 
