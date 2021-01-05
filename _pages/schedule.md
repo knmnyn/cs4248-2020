@@ -8,7 +8,7 @@ author_profile: false
 Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom (see LumiNUS for details; there will likely be a remote attendance option; we'll see how it goes), and uploaded to LumiNUS.
 
 Note in the Readings column:
-* (SLP2) Jurafsky and Martin, <A href="https://web.stanford.edu/~jurafsky/slp2/">Speech and Language Processing</a>, 2nd edition
+* (SLP2) Jurafsky and Martin, <A href="https://www.cs.colorado.edu/~martin/SLP/">Speech and Language Processing</a>, 2nd edition. _We are only using this previous edition for the first chapter, since it is not finished in the 3e draft._
 * (SLP3) Jurafsky and Martin, <A href="https://web.stanford.edu/~jurafsky/slp3/">Speech and Language Processing</a>, 3rd edition
 * (E) Jacob Eisenstein, <a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf">Natural Language Processing</a> (2018)
 
@@ -19,7 +19,7 @@ Note in the Readings column:
   <td><b>NUS Week 01</b><br />Fri, 15 Jan
   </td>
   <td>Administrivia and Regular Expressions, Finite State Automata</td>
-  <td>· SLP2, Ch 1.
+  <td>· SLP2, <A HREF="https://www.cs.colorado.edu/~martin/SLP/Updates/1.pdf">Ch 1</A>.
   </td>
 </tr>
 <tr>
@@ -28,7 +28,8 @@ Note in the Readings column:
   <td>
     Words
   </td>
-  <td>· SLP3, Ch 2.
+  <td>· Assignment 1 out. 
+    <BR/>· SLP3, Ch 2.
   </td>
 </tr>
 <tr>
@@ -37,7 +38,7 @@ Note in the Readings column:
   <td>
     Language Models
   </td>
-  <td>· Assignment 1 out
+  <td>
     <BR/>· SLP3, Ch 3.
   </td>
 </tr>
@@ -47,7 +48,8 @@ Note in the Readings column:
   <td>Text Classification
   </td> 
   <td>· SLP3, Ch 4.
-    <BR/>· E, Chs 2–4.    
+    <BR/>· E, Chs 2–4.
+    <BR/>· Assignment 1 due.
   </td>
 </tr>
 <tr>
@@ -56,7 +58,7 @@ Note in the Readings column:
   <td>Connectionist Machine Learning
   </td>
   <td>· SLP3, Ch 5.
-    <BR/>· Assignment 1 due
+    <BR/>· Assignment 2 out.
   </td>
 </tr>
 <tr>
@@ -81,7 +83,7 @@ Note in the Readings column:
   </td>
   <td>Sequences
   </td>
-  <td>· Assignment 2 out
+  <td>· Assignment 2 due.
     <br/>· SLP3, Ch 8.
     <br/>· E, Ch 7.
   </td>
@@ -99,8 +101,8 @@ Note in the Readings column:
   </td>
   <td>Trees
   </td>
-    <td>· Assignment 2 due
-      <br/>· SLP3, Ch 12, 13, 15.
+    <td>· Assignment 3 out
+      <br/>· SLP3, Chs 12, 13, 15.
     <br/>· E, Chs 9, 10.
   </td>
 </tr>
@@ -109,7 +111,7 @@ Note in the Readings column:
   </td>
   <td>Semantics
   </td>
-  <td>· Assignment 3 out
+  <td>
   </td>
 </tr>
 <tr>
@@ -117,8 +119,8 @@ Note in the Readings column:
   </td>
   <td>Classification Applications
   </td>
-  <td>
-    <br/>· SLP3, Ch 25
+  <td>· Assignment 3 due.
+    <br/>· SLP3, Ch 25.
   </td>
 </tr>
 <tr>
@@ -126,9 +128,8 @@ Note in the Readings column:
   </td>
   <td>Sequence Applications
   </td>
-  <td>· Assignment 3 due
-    <br/>· SLP3, Ch 25
-    <br/>· E, Ch 18
+  <td>· SLP3, Ch 25.
+    <br/>· E, Ch 18.
   </td>
 </tr>
 <tr>
@@ -136,16 +137,17 @@ Note in the Readings column:
   </td>
   <td>Ethics and Advanced Topics
   </td>
-  <td>· SLP3, Ch 26
-    <br/>· E, Ch 19
+  <td>· Assignment 4 out.
+    <br/>· SLP3, Ch 26.
+    <br/>· E, Ch 19.
   </td>
 </tr>
 <tr>
-  <th><b>Reading Week</b><br />TBA
+  <th><b>Reading Week</b>
   </th>
   <th>100% Continuous Assessment (due to COVID-19).  No final exam<sup>1</sup>.
   </th>
-  <th>
+  <th>· Assignment 4 due.
   </th>
 </tr>
 </tbody></table>
