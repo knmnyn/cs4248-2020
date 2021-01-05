@@ -7,20 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-_This page is preliminary.  Expect it to change._
+_ ⚠️ This page is preliminary.  Expect it to change. Last updated 5 Jan 2021. ⚠️_
 
 The grading for this class will comprise of the following continuous assessment milestones, inclusive of one exam. The exam will feature some MCQ and MRQ.  Multiple Response questions allow for zero, 1, more than 1 or all options to be checked.  MRQs are graded to correct for random chance agreement.
 
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
   <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
   <tbody>
-    <tr><td>Midterm Test</td><td>30%</td></tr>
-    <tr><td>Project (see separate breakdown)</td><td>30%</td></tr>
-    <tr><td>3 Assignments </td><td>36%</td></tr>
-    <tr><td>Participation</td><td>4%</td></tr>
+    <tr><td>Midterm Test (during Week 06, 07 or 08; not yet finalised)</td><td>20%</td></tr>
+    <tr><td>Project (see separate breakdown)</td><td>35%</td></tr>
+    <tr><td>4 Assignments (or unannounced quizzes during lecture time, only in Weeks 07–13)</td><td>45%</td></tr>
     <tr><th><b>Total</b></th><th><b>100%</b></th></tr>
   </tbody>
 </table>
+
+Good participation on the Slack forum and in student peer evaluations may be counted up to 5% bonus (i.e., no possibility of deduction) to your final mark for the course.
 
 Lecture attendance is not mandatory. However, participation on the Slack discussion group is very helpful for your
 teaching staff too. Without it, we have very little idea whether you
