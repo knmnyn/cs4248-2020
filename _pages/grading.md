@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-_ ⚠️ This page is preliminary.  Expect it to change. Last updated 5 Jan 2021. ⚠️_
+⚠️ _This page is preliminary.  Expect it to change. Last updated 5 Jan 2021._ ⚠️
 
 The grading for this class will comprise of the following continuous assessment milestones, inclusive of one exam. The exam will feature some MCQ and MRQ.  Multiple Response questions allow for zero, 1, more than 1 or all options to be checked.  MRQs are graded to correct for random chance agreement.
 
