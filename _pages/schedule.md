@@ -5,7 +5,7 @@ permalink: /schedule/
 author_profile: false
 ---
 
-Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom (there may be a remote attendance option; we'll see how it goes), and uploaded to LumiNUS.
+Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom (see LumiNUS for details; there will likely be a remote attendance option; we'll see how it goes), and uploaded to LumiNUS.
 
 Note in the Readings column:
 * (SLP2) Jurafsky and Martin, <A href="https://web.stanford.edu/~jurafsky/slp2/">Speech and Language Processing</a>, 2nd edition
@@ -51,12 +51,12 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 05</b><br />12 Feb (Class to be rescheduled in light of CNY Holiday)
+  <td><b>Week 05</b><br />12 Feb (Class to be recorded or rescheduled in light of Lunar / CNY Holiday)
   </td>
   <td>Connectionist Machine Learning
   </td>
   <td>· SLP3, Ch 5.
-· Assignment 1 due
+    <BR/>· Assignment 1 due
   </td>
 </tr>
 <tr>
