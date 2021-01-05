@@ -92,7 +92,7 @@ Translation:
 
 <div class="tutor__profile">
   <img src="images/Reza.jpg"/><BR/>
-  <strong>MUHAMMAD Reza Qorib</strong>
+  <strong>Muhammad Reza QORIB</strong>
   <BR/>
 <A HREF="mailto:mrqorib@u.nus.edu">mrqorib@u.nus.edu</A><BR/>
 </div>
