@@ -79,7 +79,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 07</b><br />6 Mar
+  <td><b>Week 07</b><br />5 Mar
   </td>
   <td>Sequences
   </td>
