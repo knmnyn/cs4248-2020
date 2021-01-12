@@ -13,58 +13,62 @@ Note in the Readings column:
 * (E) Jacob Eisenstein, <a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf">Natural Language Processing</a> (2018)
 
 <table class="table table-striped">
-<thead class="thead-inverse"><tr><th>Date</th><th>Description</th><th>Optional Readings and (⚠️ <i>Preliminary</i> ⚠️) Deadlines</th></tr></thead>
+<thead class="thead-inverse"><tr><th>Date</th><th>Description and Optional Readings</th><th>Deadlines</th></tr></thead>
 <tbody>
 <tr>
   <td><b>NUS Week 01</b><br />Fri, 15 Jan
   </td>
-  <td>Administrivia and Regular Expressions, Finite State Automata</td>
-  <td>· SLP2, <A HREF="https://www.cs.colorado.edu/~martin/SLP/Updates/1.pdf">Ch 1</A>.
+  <td><b>Administrivia</b> and <b>Introduction</b>
+    <br/>· SLP2, <A HREF="https://www.cs.colorado.edu/~martin/SLP/Updates/1.pdf">Ch 1</A>.
+  </td>
+  <td>
   </td>
 </tr>
 <tr>
   <td><b>Week 02</b><br />22 Jan
   </td>
   <td>
-    Words
+    <b>Words</b>
+    <BR/>· SLP3, Ch 2.
   </td>
   <td>· Assignment 1 out (10% of final marks)
-    <BR/>· SLP3, Ch 2.
   </td>
 </tr>
 <tr>
   <td><b>Week 03</b><br />29 Jan
   </td>
   <td>
-    Language Models
+    <b>Language Models</b>
+    <BR/>· SLP3, Ch 3.
   </td>
   <td>
-    <BR/>· SLP3, Ch 3.
   </td>
 </tr>
 <tr>
   <td><b>Week 04</b><br />5 Feb
   </td>
-  <td>Text Classification
+  <td><b>Text Classification</b>
+    <br/>· SLP3, Ch 4.
+    <BR/>· E, Chs 2–4.  
   </td> 
-  <td>· SLP3, Ch 4.
-    <BR/>· E, Chs 2–4.
-    <BR/>· Assignment 1 due.
+  <td>
+    <BR/>· Assignment 1 due (4 Feb, 23:59 SGT).
     <BR/>· Assignment 2 out (15%).
   </td>
 </tr>
 <tr>
   <td><b>Week 05</b><br />12 Feb (Class to be recorded or rescheduled in light of Lunar / CNY Holiday)
   </td>
-  <td>Connectionist Machine Learning
+  <td><b>Connectionist Machine Learning</b>
+    <br/>· SLP3, Ch 5.
   </td>
-  <td>· SLP3, Ch 5.
+  <td>
   </td>
 </tr>
 <tr>
   <td><b>Week 06</b><br />19 Feb
   </td>
-  <td>Embeddings
+  <td><b>Embeddings</b> and <b>Midterm</b> (19 Feb, 9:00-10:00 SGT)
   </td> 
   <td>· SLP3, Ch 6.
     <BR/>· E, Ch 14.
@@ -75,23 +79,23 @@ Note in the Readings column:
   </td>
   <td>
   </td>
-  <td>· Assignment 2 due.
+  <td>· Assignment 2 due (25 Feb, 23:59 SGT).
   </td>
 </tr>
 <tr>
   <td><b>Week 07</b><br />5 Mar
   </td>
-  <td>Sequences
-  </td>
-  <td>· Assignment 3 out (15%)
+  <td><b>Sequences</b>
     <br/>· SLP3, Ch 8.
     <br/>· E, Ch 7.
+  </td>
+  <td>· Assignment 3 out (15%).
   </td>
 </tr>
 <tr>
   <td><b>Week 08</b><br />12 Mar
   </td>
-  <td>Encoder–Decoder
+  <td><b>Encoder–Decoder</b>
   </td>
   <td>
   </td>
@@ -99,17 +103,17 @@ Note in the Readings column:
 <tr>
   <td><b>Week 09</b><br />19 Mar
   </td>
-  <td>Trees
+  <td><b>Trees</b>
+    <br/>· SLP3, Chs 12, 13, 15.
+    <br/>· E, Chs 9, 10.
   </td>
     <td>· Assignment 3 due 
-      <br/>· SLP3, Chs 12, 13, 15.
-    <br/>· E, Chs 9, 10.
   </td>
 </tr>
 <tr>
   <td><b>Week 10</b><br />26 Mar
   </td>
-  <td>Semantics
+  <td><b>Semantics</b>
   </td>
   <td>
   </td>
@@ -117,28 +121,30 @@ Note in the Readings column:
 <tr>
   <td><b>Week 11</b><br />2 Apr (Class to be recorded or rescheduled in light of Good Friday Holiday)
   </td>
-  <td>Classification Applications
+  <td><b>Classification Applications</b>
+    <br/>· SLP3, Ch 25.
   </td>
-  <td>· SLP3, Ch 25.
+  <td>
   </td>
 </tr>
 <tr>
   <td><b>Week 12</b><br />9 Apr
   </td>
-  <td>Sequence Applications
-  </td>
-  <td>· SLP3, Ch 25.
+  <td><b>Sequence Applications</b>
+    <br/>· SLP3, Ch 25.
     <br/>· E, Ch 18.
+  </td>
+  <td>
   </td>
 </tr>
 <tr>
   <td><b>Week 13</b><br />16 Apr
   </td>
-  <td>Ethics and Advanced Topics
-  </td>
-  <td>· Assignment 4 out (5%)
+  <td><b>Ethics</b> and <b>Advanced Topics</b>
     <br/>· SLP3, Ch 26.
     <br/>· E, Ch 19.
+  </td>
+  <td>· Assignment 4 out (5%).
   </td>
 </tr>
 <tr>
@@ -146,7 +152,7 @@ Note in the Readings column:
   </th>
   <th>100% Continuous Assessment (due to COVID-19).  No final exam<sup>1</sup>.
   </th>
-  <th>· Assignment 4 due.
+  <th>· Assignment 4 due (22 Apr 23:59 SGT).
   </th>
 </tr>
 </tbody></table>
