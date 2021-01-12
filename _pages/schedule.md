@@ -28,7 +28,7 @@ Note in the Readings column:
   <td>
     Words
   </td>
-  <td>· Assignment 1 out. 
+  <td>· Assignment 1 out (10% of final marks)
     <BR/>· SLP3, Ch 2.
   </td>
 </tr>
@@ -50,6 +50,7 @@ Note in the Readings column:
   <td>· SLP3, Ch 4.
     <BR/>· E, Chs 2–4.
     <BR/>· Assignment 1 due.
+    <BR/>· Assignment 2 out (15%).
   </td>
 </tr>
 <tr>
@@ -58,7 +59,6 @@ Note in the Readings column:
   <td>Connectionist Machine Learning
   </td>
   <td>· SLP3, Ch 5.
-    <BR/>· Assignment 2 out.
   </td>
 </tr>
 <tr>
@@ -75,7 +75,7 @@ Note in the Readings column:
   </td>
   <td>
   </td>
-  <td>
+  <td>· Assignment 2 due.
   </td>
 </tr>
 <tr>
@@ -83,8 +83,7 @@ Note in the Readings column:
   </td>
   <td>Sequences
   </td>
-  <td>· Assignment 2 due.
-    <br/>· SLP3, Ch 8.
+  <td>· SLP3, Ch 8.
     <br/>· E, Ch 7.
   </td>
 </tr>
@@ -101,7 +100,7 @@ Note in the Readings column:
   </td>
   <td>Trees
   </td>
-    <td>· Assignment 3 out
+    <td>· Assignment 3 out (15%)
       <br/>· SLP3, Chs 12, 13, 15.
     <br/>· E, Chs 9, 10.
   </td>
@@ -137,7 +136,7 @@ Note in the Readings column:
   </td>
   <td>Ethics and Advanced Topics
   </td>
-  <td>· Assignment 4 out.
+  <td>· Assignment 4 out (5%)
     <br/>· SLP3, Ch 26.
     <br/>· E, Ch 19.
   </td>
