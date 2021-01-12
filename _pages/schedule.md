@@ -13,7 +13,7 @@ Note in the Readings column:
 * (E) Jacob Eisenstein, <a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf">Natural Language Processing</a> (2018)
 
 <table class="table table-striped">
-<thead class="thead-inverse"><tr><th>Date</th><th>Description and Optional Readings</th><th>Deadlines</th></tr></thead>
+<thead class="thead-inverse"><tr><th>Date</th><th>Description and Optional Readings</th><th>Deadlines and Mark Weightage</th></tr></thead>
 <tbody>
 <tr>
   <td><b>NUS Week 01</b><br />Fri, 15 Jan
