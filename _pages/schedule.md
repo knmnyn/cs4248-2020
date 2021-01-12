@@ -115,7 +115,7 @@ Note in the Readings column:
   </td>
 </tr>
 <tr>
-  <td><b>Week 11</b><br />2 Apr
+  <td><b>Week 11</b><br />2 Apr (Class to be recorded or rescheduled in light of Good Friday Holiday)
   </td>
   <td>Classification Applications
   </td>
