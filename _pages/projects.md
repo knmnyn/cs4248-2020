@@ -10,18 +10,17 @@ Bryan Low (NUS) and Thorsten Joachims (Cornell)_
 
 _Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  Last updated 12 Jan 2021. ⚠️
 
-A key part of the mastery of machine learning is practicing it,
-outside of the formal mathematical and statistical basis for the
-algorithms.  The **student projects** form an integral part of the
+A key part of the mastery of any skill is practicing it,
+outside of the formal algorithmic basis for the
+topics.  The **student projects** form an integral part of the
 assessment.  Student teams should have 4 members and will be
 partially self-assembled (into teams of 1 or 2) and partially assembled by the teaching staff.  
 There are two kinds of projects that
-can be done: _Self-Defined Projects_ or _Staff-Defined Projects_. 
-**Choose only one of the two**.
+can be done: _Self-Defined Projects_ or _Staff-Defined Projects_. Choose only one of the two.
 
 ### Self-Defined Projects
 
-The final project is intended to be a limited investigation in an area
+The final (mini-)project is intended to be a limited investigation in an area
 of machine learning of your choice. The purpose of the project is to
 enable you to study an area of your interest in greater detail in a
 practical way. The project can take on many forms, including but not
@@ -57,9 +56,9 @@ and more emphasis on coming up with interesting methods.
 <table class="table table-striped" style="margin-left: auto; margin-right:auto">
 <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
 <tbody>
-<tr><td>Proposal</td><td>5%</td></tr>
+<tr><td>Proposal (Peer Graded)</td><td>5%</td></tr>
 <tr><td>Project Consultations</td><td>N/A</td></tr>
-<tr><td>Project Poster and Presentation</td><td>8 + 8 = 16%</td></tr>
+<tr><td>Project Poster and Presentation (Peer Graded)</td><td>8 + 8 = 16%</td></tr>
 <tr><td>Final Project Report</td><td>14%</td></tr>
 <tr><th><b>Total</b></th><th><b>30%</b></th></tr>
 </tbody>
