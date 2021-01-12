@@ -8,13 +8,14 @@ author_profile: false
 _Credits: Much of the architecture for this course project comes from
 Bryan Low (NUS) and Thorsten Joachims (Cornell)_
 
-_Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  It may not be updated.
+_Warning_ ⚠️: this section of the website is still undergoing revision for this semester.  Last updated 12 Jan 2021. ⚠️
 
 A key part of the mastery of machine learning is practicing it,
 outside of the formal mathematical and statistical basis for the
 algorithms.  The **student projects** form an integral part of the
 assessment.  Student teams should have 4 members and will be
-assembled by the teaching staff.  There are two kinds of projects that
+partially self-assembled (into teams of 1 or 2) and partially assembled by the teaching staff.  
+There are two kinds of projects that
 can be done: _Self-Defined Projects_ or _Staff-Defined Projects_. 
 **Choose only one of the two**.
 
@@ -57,10 +58,9 @@ and more emphasis on coming up with interesting methods.
 <thead class="thead-inverse"><tr><th>Description</th><th>Percentage</th></tr></thead>
 <tbody>
 <tr><td>Proposal</td><td>5%</td></tr>
-<tr><td>Interim Presentation</td><td>10%</td></tr>
-<tr><td>Project Poster and Presentation</td><td>5 + 5 = 10%</td></tr>
-<tr><td>Final Project Report</td><td>10%</td></tr>
-<tr><td>Peer Grading (of three other projects) </td><td>(counts towards <i>Participation</i>)</td></tr>
+<tr><td>Project Consultations</td><td>N/A</td></tr>
+<tr><td>Project Poster and Presentation</td><td>8 + 8 = 16%</td></tr>
+<tr><td>Final Project Report</td><td>14%</td></tr>
 <tr><th><b>Total</b></th><th><b>30%</b></th></tr>
 </tbody>
 </table>
@@ -71,14 +71,14 @@ a formal project proposal.  The staff and your peers will give you
 feedback.  After the project proposal, you will be assigned a contact
 TA that you can use as a resource for questions and advice.
 
-In Weeks 09-10, the staff will meet with all teams for a
+In Weeks 10-11, the staff will meet with all teams for a
 mandatory graded consultation.  Your team will need to prepare a short
 presentation deck to present to the staff about the progress of your
 project.
 
 Detailed grading rubrics for all phases of the project are provided as
-part of the project reporting templates provided in class, as well as
-through the accompanying project videos that are released on Week 01.
+part of the project reporting templates provided in class.
+
 The general grading metrics are as follows:
 
 * Originality
