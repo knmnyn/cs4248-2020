@@ -148,8 +148,8 @@ Note in the Readings column:
     <br/>· E, Ch 19.
   </td>
   <td>· Assignment 4 out.
-    <br/>· Project Poster (5%; TBA).
-    <br/>· Project Presentation (5%; TBA).
+    <br/>· Project Poster (8%; TBA).
+    <br/>· Project Presentation (8%; TBA).
   </td>
 </tr>
 <tr>
@@ -158,7 +158,7 @@ Note in the Readings column:
   <th>100% Continuous Assessment (due to COVID-19).  No final exam<sup>1</sup>.
   </th>
   <th>· Assignment 4 due (5%; Thu, 22 Apr 23:59 SGT).
-    <br/>· Project Report due (20%, Fri, 23 Apr 23:59 SGT).
+    <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
   </th>
 </tr>
 </tbody></table>
