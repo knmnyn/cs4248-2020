@@ -83,7 +83,8 @@ Note in the Readings column:
   </td>
   <td>Sequences
   </td>
-  <td>· SLP3, Ch 8.
+  <td>· Assignment 3 out (15%)
+    <br/>· SLP3, Ch 8.
     <br/>· E, Ch 7.
   </td>
 </tr>
@@ -100,7 +101,7 @@ Note in the Readings column:
   </td>
   <td>Trees
   </td>
-    <td>· Assignment 3 out (15%)
+    <td>· Assignment 3 due 
       <br/>· SLP3, Chs 12, 13, 15.
     <br/>· E, Chs 9, 10.
   </td>
@@ -118,8 +119,7 @@ Note in the Readings column:
   </td>
   <td>Classification Applications
   </td>
-  <td>· Assignment 3 due.
-    <br/>· SLP3, Ch 25.
+  <td>· SLP3, Ch 25.
   </td>
 </tr>
 <tr>
