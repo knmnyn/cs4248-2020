@@ -60,7 +60,7 @@ and more emphasis on coming up with interesting methods.
 <tr><td>Project Consultations</td><td>N/A</td></tr>
 <tr><td>Project Poster and Presentation (Peer Graded)</td><td>8 + 8 = 16%</td></tr>
 <tr><td>Final Project Report</td><td>14%</td></tr>
-<tr><th><b>Total</b></th><th><b>30%</b></th></tr>
+<tr><th><b>Total</b></th><th><b>35%</b></th></tr>
 </tbody>
 </table>
 <p><br /></p>
