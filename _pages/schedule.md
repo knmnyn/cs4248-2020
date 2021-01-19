@@ -5,7 +5,9 @@ permalink: /schedule/
 author_profile: false
 ---
 
-Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom (see LumiNUS for details; there will likely be a remote attendance option; we'll see how it goes), and uploaded to LumiNUS.
+Last updated: 19 Jan 2021.
+
+Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom and are available via LumiNUS.
 
 Note in the Readings column:
 * (SLP2) Jurafsky and Martin, <A href="https://www.cs.colorado.edu/~martin/SLP/">Speech and Language Processing</a>, 2nd edition. _We are only using this previous edition for the first chapter, since it is not finished in the 3e draft._
@@ -54,6 +56,7 @@ Note in the Readings column:
   <td>
     <BR/>· Assignment 1 due (10% of Final Marks; Due: Thu, 4 Feb 23:59 SGT).
     <BR/>· Assignment 2 out.
+    <BR/>· Students to fill out team formation form.
   </td>
 </tr>
 <tr>
@@ -62,7 +65,8 @@ Note in the Readings column:
   <td><b>Connectionist Machine Learning</b>
     <br/>· SLP3, Ch 5.
   </td>
-  <td>
+  <td>· Assignment 2 out.
+  <BR/>· Teams finalised by CS4248 staff.
   </td>
 </tr>
 <tr>
