@@ -65,8 +65,7 @@ Note in the Readings column:
   <td><b>Connectionist Machine Learning</b>
     <br/>· SLP3, Ch 5.
   </td>
-  <td>· Assignment 2 out.
-  <BR/>· Teams finalised by CS4248 staff.
+  <td>· Teams finalised by CS4248 staff.
   </td>
 </tr>
 <tr>
