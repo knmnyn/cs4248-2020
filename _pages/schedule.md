@@ -5,7 +5,7 @@ permalink: /schedule/
 author_profile: false
 ---
 
-Last updated: 19 Jan 2021.
+Last updated: 15 Feb 2021 to add peer review deadlines.
 
 Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom and are available via LumiNUS.
 
@@ -102,7 +102,7 @@ Note in the Readings column:
   </td>
   <td><b>Encoder–Decoder</b>
   </td>
-  <td>
+  <td>· Peer Review of Project Proposals due (Thu, 11 Mar 23:59 SGT).
   </td>
 </tr>
 <tr>
@@ -113,7 +113,6 @@ Note in the Readings column:
     <br/>· E, Chs 9, 10.
   </td>
     <td>· Assignment 3 due (15%; Thu, 18 Mar 23:59 SGT)
-      <br/>
   </td>
 </tr>
 <tr>
@@ -162,6 +161,7 @@ Note in the Readings column:
   </th>
   <th>· Assignment 4 due (5%; Thu, 22 Apr 23:59 SGT).
     <br/>· Project Report due (14%, Fri, 23 Apr 23:59 SGT).
+    <br/>· Peer Reviews of Project Posters and Presentations due (Thu, 22 Apr 23:59 SGT).
   </th>
 </tr>
 </tbody></table>
