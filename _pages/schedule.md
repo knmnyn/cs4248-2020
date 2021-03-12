@@ -10,8 +10,8 @@ Last updated: 15 Feb 2021 to add peer review deadlines.
 Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom and are available via LumiNUS.
 
 Note in the Readings column:
-* (SLP2) Jurafsky and Martin, <A href="https://www.cs.colorado.edu/~martin/SLP/">Speech and Language Processing</a>, 2nd edition. _We are only using this previous edition for the first chapter, since it is not finished in the 3e draft._
-* (SLP3) Jurafsky and Martin, <A href="https://web.stanford.edu/~jurafsky/slp3/">Speech and Language Processing</a>, 3rd edition
+* (SLP2) Dan Jurafsky and James Martin, <A href="https://www.cs.colorado.edu/~martin/SLP/">Speech and Language Processing</a>, 2nd edition. _We are only using this previous edition for the first chapter, since it is not finished in the 3e draft._
+* (SLP3) Dan Jurafsky and James Martin, <A href="https://web.stanford.edu/~jurafsky/slp3/">Speech and Language Processing</a>, 3rd edition
 * (E) Jacob Eisenstein, <a href="https://github.com/jacobeisenstein/gt-nlp-class/blob/master/notes/eisenstein-nlp-notes.pdf">Natural Language Processing</a> (2018)
 
 <table class="table table-striped">
