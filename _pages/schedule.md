@@ -101,8 +101,9 @@ Note in the Readings column:
   <td><b>Week 08</b><br />12 Mar
   </td>
   <td><b>Encoder–Decoder</b>
+    <br/>· SLP3, Ch 9.
   </td>
-  <td>· Peer Review of Project Proposals due (Thu, 11 Mar 23:59 SGT).
+  <td>
   </td>
 </tr>
 <tr>
@@ -112,7 +113,8 @@ Note in the Readings column:
     <br/>· SLP3, Chs 12, 13, 15.
     <br/>· E, Chs 9, 10.
   </td>
-    <td>· Assignment 3 due (15%; Thu, 18 Mar 23:59 SGT)
+    <td>· Peer Review of Project Proposals due (Tue, 16 Mar 23:59 SGT).
+    </br>· Assignment 3 due (15%; Thu, 18 Mar 23:59 SGT)
   </td>
 </tr>
 <tr>
