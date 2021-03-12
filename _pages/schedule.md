@@ -114,7 +114,7 @@ Note in the Readings column:
     <br/>· E, Chs 9, 10.
   </td>
     <td>· Peer Review of Project Proposals due (Tue, 16 Mar 23:59 SGT).
-    </br>· Assignment 3 due (15%; Thu, 18 Mar 23:59 SGT)
+    <br/>· Assignment 3 due (15%; Thu, 18 Mar 23:59 SGT)
   </td>
 </tr>
 <tr>
