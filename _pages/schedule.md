@@ -152,8 +152,8 @@ Note in the Readings column:
     <br/>· E, Ch 19.
   </td>
   <td>· Assignment 4 out.
-    <br/>· Project Poster (8%; TBA).
-    <br/>· Project Presentation (8%; TBA).
+    <br/>· Project Poster (8%; Fri, 16 Apr 7:59 SGT).
+    <br/>· Project Presentation (8%; Fri, 16 Apr 7:59 SGT).
   </td>
 </tr>
 <tr>
