@@ -5,7 +5,7 @@ permalink: /schedule/
 author_profile: false
 ---
 
-Last updated: 15 Feb 2021 to add peer review deadlines.
+Last updated: 14 Apr 2021 to fix the poster and presentation deadlines.
 
 Note that our class will be in the physical venue of LT19.  Recordings will take place where possible by Zoom and are available via LumiNUS.
 
