@@ -10,7 +10,7 @@ redirect_from:
 
 #### NUS SoC, 2020/2021, Semester II, Time and Venue: Fridays, 09:00-11:00 @ LT19.  Session will be recorded where our technology behaves appropriately and shared on LumiNUS. 
  
-<DIV STYLE="background-color: #5c940d; display: inline-block; border-radius: 2px; border: 2px solid gray; padding: 5px; margin-right: 10px; float: right;">
+<DIV STYLE="background-color: #FFC0CB; display: inline-block; border-radius: 2px; border: 2px solid gray; padding: 5px; margin-right: 10px; float: right;">
   This page documents a past iteration of this course and is maintained strictly for legacy reasons.  For current or prospective students, please continue to the <A HREF="http://www.comp.nus.edu.sg/~cs4248/">current webpage for this course</A>.
 </DIV>
 
